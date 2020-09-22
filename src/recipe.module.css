@@ -1,0 +1,14 @@
+.recipe{
+    
+        border-radius: 10px;
+        
+        box-shadow: 0px 5px 20px rgb(71, 71, 71);
+        margin: 20px;
+        display: inline;
+        /* background-color:white; */
+        color: red;
+        justify-content: space-around;
+        align-items: center;
+        /* min-width: 25%; */
+        flex-direction: column;
+      }
